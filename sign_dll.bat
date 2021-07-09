@@ -1,0 +1,1 @@
+signtool sign /v /f MySPC.pfx /tr http://timestamp.digicert.com /td sha256 /fd sha256 testdrop.dll
